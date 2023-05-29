@@ -1,0 +1,48 @@
+#body {
+  background-color: #93bfb7;
+}
+
+.navbar {
+  position: fixed;
+  margin-bottom: 20px;
+
+}
+
+.brand {
+  margin-right: 400px;
+}
+
+.dropdown {
+  margin-right: 40px
+}
+
+/* teacher css*/
+
+
+.row {
+  display: grid;
+  place-items: center;
+  margin-top: 10px;
+  row-gap: 15px;
+}
+
+.cards {
+  padding: 60px;
+
+}
+
+.add {
+  margin: 20px;
+  text-align: center;
+
+}
+
+input:hover {
+ box-shadow: 2px 2px 5px slategrey;
+
+}
+
+.update {
+  margin: 20px;
+  text-align: center;
+}
